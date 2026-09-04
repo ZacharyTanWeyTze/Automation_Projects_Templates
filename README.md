@@ -20,3 +20,4 @@ Tools used include: Power Automate, IFTTT, UiPath
 | Power Automate Tutorial for Beginners | [Watch Video](https://www.youtube.com/watch?v=dDO4Y4aDYXw) | Watched AND Reviewed |
 | Learn to Use Power Automate with Examples \| Create Bulk PDF Files \| Planner to Outlook | [Watch Video](https://www.youtube.com/watch?v=SUsik0FGzI0) | Watched AND Reviewed |
 | Power Automate: Tutorial for Beginners | [Watch Video](https://www.youtube.com/watch?v=in09HzquU5M) | Watched AND To Be Reviewed |
+| How to Mail Merge using Power Automate | [Watch Video](https://www.youtube.com/watch?v=Nl5AoLusNR4) | Watched AND To Be Reviewed |
